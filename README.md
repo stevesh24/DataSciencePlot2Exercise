@@ -1,3 +1,3 @@
 # DataSciencePlot2Exercise
 Done for Data Science Coursera course, Johns Hopkins
-Using datasets: summarySCC_PM25.rds, 
+Pollution data using datasets: summarySCC_PM25.rds, Source_Classification_Code.rds
